@@ -78,7 +78,3 @@ Java                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
-
- Github README
-
-[![Waka Readme](https://github.com/blake-tisbury/blake-tisbury/actions/workflows/wakatime.yml/badge.svg)](https://github.com/blake-tisbury/blake-tisbury/actions/workflows/wakatime.yml)
