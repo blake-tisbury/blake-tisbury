@@ -81,10 +81,5 @@ Java                     1 repo              ██░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/blake-tisbury/blake-tisbury/main/charts/bar_graph.png) 
-
-
  Last Updated on 27/01/2022 18:40:28 UTC
 <!--END_SECTION:waka-->
