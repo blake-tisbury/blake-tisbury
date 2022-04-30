@@ -46,22 +46,16 @@ Sunday       69 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Git Config               7 mins              ██████████████████████░░░   90.87% 
-XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              ██████████████████████░░░   90.87% 
-IntelliJ                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.13%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sumo-man-game            7 mins              ██████████████████████░░░   90.87% 
-WorldGuardExtraFlagsPlugi0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
-Multiverse-Core          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              ██████████████████████░░░   90.87% 
-Mac                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.13%
+No Activity Tracked This Week
 
 ```
 
@@ -82,5 +76,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blake-tisbury/blake-tisbury/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/04/2022 18:41:02 UTC
+ Last Updated on 30/04/2022 18:40:58 UTC
 <!--END_SECTION:waka-->
