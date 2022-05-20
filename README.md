@@ -1,7 +1,7 @@
 # blake-tisbury
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,17 +46,16 @@ Sunday       68 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Python                   5 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+DiscordCIBot             5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +76,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blake-tisbury/blake-tisbury/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/05/2022 18:45:35 UTC
+ Last Updated on 20/05/2022 18:42:26 UTC
 <!--END_SECTION:waka-->
