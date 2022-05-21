@@ -1,7 +1,7 @@
 # blake-tisbury
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,7 +46,8 @@ Sunday       68 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.0%
+Python                   5 mins              █████████████████████████   100.0% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 PyCharm                  5 mins              █████████████████████████   100.0%
@@ -76,5 +77,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blake-tisbury/blake-tisbury/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/05/2022 18:42:26 UTC
+ Last Updated on 21/05/2022 18:41:54 UTC
 <!--END_SECTION:waka-->
