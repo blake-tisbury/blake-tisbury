@@ -20,6 +20,6 @@
 
 
 
-[![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=blake-tisbury&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=blake-tisbury&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="blake-tisbury" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blake-tisbury&theme=github-dark-blue)](https://git.io/streak-stats)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=blake-tisbury&theme=github-dark-blue" alt="blake-tisbury" />
