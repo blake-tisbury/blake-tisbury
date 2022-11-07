@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blake</h1>
-<h3 align="center">A full time problem solver from Massachusetts</h3>
-
-- 🔭 I’m currently working on [Sumo Man](https://sumoman.dev)
+<h3 align="center">Lead Developer @ Triiodide Studios</h3>
 
 - 👨‍💻 See some of my work at [https://tisbury.tech](https://tisbury.tech)
 
-- 💬 Ask me about **Unreal Engine, Python, ML**
+- 💬 Skills: **Unreal Engine, Python, ML**
 
 - 📫 How to reach me **blake.tisbury@gmail.com**
 
