@@ -5,7 +5,7 @@
 
 - 💬 Skills: **Unreal Engine, Python, ML**
 
-- 📫 How to reach me **blake.tisbury@gmail.com**
+- 📫 How to reach me **blake@triiodide.dev**
 
 
 <h3 align="left">Connect with me:</h3>
