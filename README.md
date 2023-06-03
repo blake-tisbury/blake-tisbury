@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blake</h1>
 <h3 align="center">Lead Developer @ Triiodide Studios</h3>
 
-- 👨‍💻 See some of my work at [https://tisbury.tech](https://tisbury.dev)
+- 👨‍💻 See some of my work at [https://tisbury.dev](https://tisbury.dev)
 
 - 💬 Skills: **Unreal Engine, Python, ML**
 
